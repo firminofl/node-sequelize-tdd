@@ -1,7 +1,7 @@
 module.exports = {
   host: '127.0.0.1',
   username: 'postgres',
-  password: 'sml3uc0',
+  password: '123456',
   database: 'nodeauth',
   dialect: 'postgres',
   operatorsAliases: false,
