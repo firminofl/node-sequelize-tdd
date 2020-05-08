@@ -1,6 +1,6 @@
 # Node Sequelize TDD
 
-#Resumo
+### Resumo
 - NodeJS com Sequelize e testes.
 - Teste desenvolvido para validação da autenticação do usuário quando faz login.
 - Cria-se um banco em forma de arquivo para não utilizar o banco em produção para fazer os testes.
